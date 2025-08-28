@@ -49,7 +49,7 @@ module.exports = async (req, res) => {
 
     // --- Elegí el datacenter correcto de DY ---
     // EU:
-    const DY_URL = "https://dy-api.eu/v2/serve/user/choose";
+    const DY_URL = "https://dy-api.com/v2/serve/user/choose";
     // US (si tu cuenta es US, reemplazá la línea de arriba por esta):
     // const DY_URL = "https://dy-api.com/v2/serve/user/choose";
 
